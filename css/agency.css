@@ -759,8 +759,8 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #fff;
-    color:#a52323;
+    background-color: #a52323;
+    color:#fff;
 }
 
 .btn:focus,
