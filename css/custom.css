@@ -1,0 +1,34 @@
+#events .events-item .events-caption {
+    margin: 0 auto;
+    padding: 25px;
+    min-height: 350px;
+    max-width: 400px;
+    text-align: center;
+    background-color: #fff;
+}
+
+#events * {
+    z-index: 2;
+    text-decoration: none;
+}
+
+@media (min-width: 767px){
+  #events .events-item {
+      margin: 0 0 30px;
+  }
+}
+
+#events .events-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
+.event-info {
+    height: 150px;
+    overflow: auto;
+    color: #777;
+    border-color: #CFCFCF;
+    border-width: 2px;
+    border-style: dotted;
+    padding: 10px;
+}
