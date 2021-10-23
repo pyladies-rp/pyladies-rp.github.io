@@ -9,7 +9,7 @@ A fonte a ser usada e as cores podem ser encontradas aqui:
 
 O protótipo pode ser encontrado neste link: https://bityli.com/3GLXO2
 
-Para saber como construir este site, podes encontrar mais informações em: CONTRIBUITNG.md
+Para saber como construir este site, podes encontrar mais informações em: [CONTRIBUITNG.md](https://github.com/pyladiesrecife/site/blob/main/CONTRIBUITING.md)
 
 
 ____
