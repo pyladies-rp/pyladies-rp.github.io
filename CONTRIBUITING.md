@@ -1,6 +1,6 @@
 # Como contribuir com a construção do nosso site
 
-Bom, antes de mais nada muito obrigade por sua contribuição, para nós é importante que nosso site a identidade de quem faz essa comunidade existir :heart:
+Bom, antes de mais nada muito obrigade por sua contribuição, para nós é importante que nosso site tenha a identidade de quem faz essa comunidade existir :heart:
 
 Antes de iniciar, é legal que você leia/faça algumas coisas:
 
