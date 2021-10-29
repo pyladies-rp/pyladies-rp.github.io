@@ -3,10 +3,39 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+
+ #pyladies {
+     background-color: #ffcb1f;
+ }
+
+.valores {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.valor {
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.valor + .valor  {
+    margin-top: 5px;
+}
+
+.valor a {
+    color: #141414;
+    font-weight: 600;
+}
+
+.valor:hover {
+    color: #141414;
+}
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .text-muted {
