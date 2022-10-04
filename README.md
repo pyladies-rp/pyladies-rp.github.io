@@ -21,7 +21,7 @@ Implementar as alterações de acordo com as especificaçẽs do Figma. O site d
 
 As edições serão majoritariamente no `index.html`  e nos arquivos CSS (`custom.css`)
 
-### :hammer: Para visualizar o site
+### :hammer: Como rodar este projeto?
 
 - `VS Code:` Instalar a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) e siga as orientações de acordo com o desenvolvedor
 
