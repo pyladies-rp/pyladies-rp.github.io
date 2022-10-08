@@ -39,7 +39,19 @@ body {
 }
 
 .text-muted {
-    color: #777;
+    margin-top: 18px;
+    color: black;
+}
+
+.text-description {
+    margin-top: 31px;
+    color: black;
+}
+
+.text-link {
+    margin-top: 37px;
+    margin-bottom: 43px;
+    color: black;
 }
 
 .text-primary {
